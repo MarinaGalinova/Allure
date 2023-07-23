@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/wr9idq4aami6ftp9/branch/master?svg=true)](https://ci.appveyor.com/project/MarinaGalinova/auto-hw-4-1-selenide/branch/master)
